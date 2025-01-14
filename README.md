@@ -1,4 +1,16 @@
-## Hi there 👋
+
+# Hi, I'm Nikita! 👋
+
+I'm a Year 2 Computer Engineering student at NUS with an interest in **Software Development**, and **IoT**!
+
+## Technologies:
+- Python, C++, C
+- Frontend: React.js, Node.js, Javascript
+- Backend: MySQL, Azure MSSQL
+
+
+Feel free to check out my work below!✨
+
 
 <!--
 **nmarwah7/nmarwah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
